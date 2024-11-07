@@ -1,0 +1,7 @@
+root a
+b in a
+c in a
+d in b
+x and y in c
+swap a and b
+line
