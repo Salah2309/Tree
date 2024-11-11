@@ -5,3 +5,4 @@ d in b
 x and y in c
 swap a and b
 line
+delete f
